@@ -1,6 +1,4 @@
-import {saludar} from './js/componentes';
 import './styles.css';
+import { setImag } from './js/componentes'
 
-const nombre = 'Carlos';
-
-saludar(nombre);
+setImag();
