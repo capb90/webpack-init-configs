@@ -2,10 +2,9 @@
 
 Initial configuration of webpack for any JavaScript project that works with this technology.
 
-## Notas
+## Notes
 
-Al descargar o clonar el repositorio ejecutar los siguientes comandos en su consola
-
+When downloading or cloning the repository run the following commands in your console.
 
 1. To rebuild the node_modules folder
 ```
